@@ -119,7 +119,7 @@ If you use this repository, please cite the associated manuscript. Full citation
 
 ## Contact
 
-For questions about the code or study, please open a GitHub issue or contact the corresponding author listed in the manuscript.
+jiajinmeng@tsinghua.edu.cn.
 
 ## License
 
