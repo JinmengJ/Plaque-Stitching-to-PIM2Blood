@@ -123,4 +123,4 @@ jiajinmeng@tsinghua.edu.cn.
 
 ## License
 
-No reuse license has yet been specified. A license should be selected by the authors and their institution before public release, taking the associated pending patent application into account.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
